@@ -1,0 +1,12 @@
+.venv/
+models/
+bin/
+.access-token
+.ngrok.yml
+__pycache__/
+*.wav
+*.png
+*.log
+
+*.pid
+ngrok-diagnostic.json
